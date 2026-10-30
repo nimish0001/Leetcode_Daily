@@ -141,6 +141,7 @@ I'm always open to connecting with developers, learning from the community, and 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nimish0001/Leetcode_Daily/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/nimish0001/Leetcode_Daily/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/nimish0001/Leetcode_Daily/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/nimish0001/Leetcode_Daily/tree/master/0389-find-the-difference) |
 ## Trie
