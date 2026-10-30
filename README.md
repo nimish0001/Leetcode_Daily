@@ -136,6 +136,7 @@ I'm always open to connecting with developers, learning from the community, and 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nimish0001/Leetcode_Daily/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/nimish0001/Leetcode_Daily/tree/master/0027-remove-element) |
 ## String
 |  |
 | ------- |
@@ -149,6 +150,7 @@ I'm always open to connecting with developers, learning from the community, and 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/nimish0001/Leetcode_Daily/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/nimish0001/Leetcode_Daily/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
