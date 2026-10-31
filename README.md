@@ -143,6 +143,7 @@ I'm always open to connecting with developers, learning from the community, and 
 | [0014-longest-common-prefix](https://github.com/nimish0001/Leetcode_Daily/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/nimish0001/Leetcode_Daily/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/nimish0001/Leetcode_Daily/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/nimish0001/Leetcode_Daily/tree/master/0132-palindrome-partitioning-ii) |
 | [0344-reverse-string](https://github.com/nimish0001/Leetcode_Daily/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/nimish0001/Leetcode_Daily/tree/master/0389-find-the-difference) |
 ## Trie
@@ -170,6 +171,7 @@ I'm always open to connecting with developers, learning from the community, and 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/nimish0001/Leetcode_Daily/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/nimish0001/Leetcode_Daily/tree/master/0132-palindrome-partitioning-ii) |
 ## Backtracking
 |  |
 | ------- |
