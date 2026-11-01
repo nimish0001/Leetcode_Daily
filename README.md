@@ -144,6 +144,7 @@ I'm always open to connecting with developers, learning from the community, and 
 | [0058-length-of-last-word](https://github.com/nimish0001/Leetcode_Daily/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/nimish0001/Leetcode_Daily/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/nimish0001/Leetcode_Daily/tree/master/0132-palindrome-partitioning-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/nimish0001/Leetcode_Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nimish0001/Leetcode_Daily/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/nimish0001/Leetcode_Daily/tree/master/0389-find-the-difference) |
 ## Trie
@@ -154,6 +155,7 @@ I'm always open to connecting with developers, learning from the community, and 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/nimish0001/Leetcode_Daily/tree/master/0027-remove-element) |
+| [0151-reverse-words-in-a-string](https://github.com/nimish0001/Leetcode_Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nimish0001/Leetcode_Daily/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
