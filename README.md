@@ -137,6 +137,7 @@ I'm always open to connecting with developers, learning from the community, and 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nimish0001/Leetcode_Daily/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/nimish0001/Leetcode_Daily/tree/master/0027-remove-element) |
+| [0179-largest-number](https://github.com/nimish0001/Leetcode_Daily/tree/master/0179-largest-number) |
 ## String
 |  |
 | ------- |
@@ -145,6 +146,7 @@ I'm always open to connecting with developers, learning from the community, and 
 | [0131-palindrome-partitioning](https://github.com/nimish0001/Leetcode_Daily/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/nimish0001/Leetcode_Daily/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/nimish0001/Leetcode_Daily/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/nimish0001/Leetcode_Daily/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/nimish0001/Leetcode_Daily/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/nimish0001/Leetcode_Daily/tree/master/0389-find-the-difference) |
 ## Trie
@@ -168,6 +170,7 @@ I'm always open to connecting with developers, learning from the community, and 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/nimish0001/Leetcode_Daily/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/nimish0001/Leetcode_Daily/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
@@ -178,4 +181,8 @@ I'm always open to connecting with developers, learning from the community, and 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/nimish0001/Leetcode_Daily/tree/master/0131-palindrome-partitioning) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/nimish0001/Leetcode_Daily/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
