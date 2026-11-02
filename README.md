@@ -150,6 +150,7 @@ I'm always open to connecting with developers, learning from the community, and 
 | [0179-largest-number](https://github.com/nimish0001/Leetcode_Daily/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/nimish0001/Leetcode_Daily/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/nimish0001/Leetcode_Daily/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/nimish0001/Leetcode_Daily/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -192,4 +193,12 @@ I'm always open to connecting with developers, learning from the community, and 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nimish0001/Leetcode_Daily/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/nimish0001/Leetcode_Daily/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/nimish0001/Leetcode_Daily/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
