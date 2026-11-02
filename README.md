@@ -141,6 +141,7 @@ I'm always open to connecting with developers, learning from the community, and 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nimish0001/Leetcode_Daily/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/nimish0001/Leetcode_Daily/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/nimish0001/Leetcode_Daily/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/nimish0001/Leetcode_Daily/tree/master/0131-palindrome-partitioning) |
@@ -156,6 +157,7 @@ I'm always open to connecting with developers, learning from the community, and 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nimish0001/Leetcode_Daily/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/nimish0001/Leetcode_Daily/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/nimish0001/Leetcode_Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nimish0001/Leetcode_Daily/tree/master/0344-reverse-string) |
@@ -175,6 +177,7 @@ I'm always open to connecting with developers, learning from the community, and 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nimish0001/Leetcode_Daily/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/nimish0001/Leetcode_Daily/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/nimish0001/Leetcode_Daily/tree/master/0132-palindrome-partitioning-ii) |
 ## Backtracking
@@ -185,4 +188,8 @@ I'm always open to connecting with developers, learning from the community, and 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/nimish0001/Leetcode_Daily/tree/master/0179-largest-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nimish0001/Leetcode_Daily/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
