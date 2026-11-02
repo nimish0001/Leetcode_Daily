@@ -151,6 +151,7 @@ I'm always open to connecting with developers, learning from the community, and 
 | [0344-reverse-string](https://github.com/nimish0001/Leetcode_Daily/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/nimish0001/Leetcode_Daily/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/nimish0001/Leetcode_Daily/tree/master/0412-fizz-buzz) |
+| [0541-reverse-string-ii](https://github.com/nimish0001/Leetcode_Daily/tree/master/0541-reverse-string-ii) |
 ## Trie
 |  |
 | ------- |
@@ -162,6 +163,7 @@ I'm always open to connecting with developers, learning from the community, and 
 | [0027-remove-element](https://github.com/nimish0001/Leetcode_Daily/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/nimish0001/Leetcode_Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nimish0001/Leetcode_Daily/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/nimish0001/Leetcode_Daily/tree/master/0541-reverse-string-ii) |
 ## Hash Table
 |  |
 | ------- |
