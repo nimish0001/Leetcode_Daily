@@ -137,6 +137,7 @@ I'm always open to connecting with developers, learning from the community, and 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nimish0001/Leetcode_Daily/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/nimish0001/Leetcode_Daily/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/nimish0001/Leetcode_Daily/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/nimish0001/Leetcode_Daily/tree/master/0179-largest-number) |
 ## String
 |  |
@@ -198,6 +199,7 @@ I'm always open to connecting with developers, learning from the community, and 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/nimish0001/Leetcode_Daily/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/nimish0001/Leetcode_Daily/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
