@@ -135,6 +135,7 @@ I'm always open to connecting with developers, learning from the community, and 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nimish0001/Leetcode_Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/nimish0001/Leetcode_Daily/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/nimish0001/Leetcode_Daily/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/nimish0001/Leetcode_Daily/tree/master/0066-plus-one) |
@@ -205,4 +206,12 @@ I'm always open to connecting with developers, learning from the community, and 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/nimish0001/Leetcode_Daily/tree/master/0412-fizz-buzz) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nimish0001/Leetcode_Daily/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nimish0001/Leetcode_Daily/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
