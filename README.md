@@ -145,6 +145,7 @@ I'm always open to connecting with developers, learning from the community, and 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nimish0001/Leetcode_Daily/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/nimish0001/Leetcode_Daily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nimish0001/Leetcode_Daily/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/nimish0001/Leetcode_Daily/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/nimish0001/Leetcode_Daily/tree/master/0131-palindrome-partitioning) |
@@ -171,6 +172,7 @@ I'm always open to connecting with developers, learning from the community, and 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nimish0001/Leetcode_Daily/tree/master/0013-roman-to-integer) |
 | [0389-find-the-difference](https://github.com/nimish0001/Leetcode_Daily/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -203,6 +205,7 @@ I'm always open to connecting with developers, learning from the community, and 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nimish0001/Leetcode_Daily/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/nimish0001/Leetcode_Daily/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/nimish0001/Leetcode_Daily/tree/master/0412-fizz-buzz) |
 ## Simulation
