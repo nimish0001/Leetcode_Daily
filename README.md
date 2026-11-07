@@ -139,6 +139,7 @@ I'm always open to connecting with developers, learning from the community, and 
 | [0014-longest-common-prefix](https://github.com/nimish0001/Leetcode_Daily/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/nimish0001/Leetcode_Daily/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/nimish0001/Leetcode_Daily/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/nimish0001/Leetcode_Daily/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/nimish0001/Leetcode_Daily/tree/master/0179-largest-number) |
 ## String
 |  |
@@ -163,6 +164,7 @@ I'm always open to connecting with developers, learning from the community, and 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nimish0001/Leetcode_Daily/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/nimish0001/Leetcode_Daily/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/nimish0001/Leetcode_Daily/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/nimish0001/Leetcode_Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nimish0001/Leetcode_Daily/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/nimish0001/Leetcode_Daily/tree/master/0541-reverse-string-ii) |
@@ -177,6 +179,7 @@ I'm always open to connecting with developers, learning from the community, and 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/nimish0001/Leetcode_Daily/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/nimish0001/Leetcode_Daily/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/nimish0001/Leetcode_Daily/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
