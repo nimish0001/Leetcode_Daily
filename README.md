@@ -145,6 +145,7 @@ I'm always open to connecting with developers, learning from the community, and 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nimish0001/Leetcode_Daily/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/nimish0001/Leetcode_Daily/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/nimish0001/Leetcode_Daily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nimish0001/Leetcode_Daily/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/nimish0001/Leetcode_Daily/tree/master/0058-length-of-last-word) |
