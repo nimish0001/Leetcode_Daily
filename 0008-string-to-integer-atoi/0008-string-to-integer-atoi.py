@@ -25,3 +25,5 @@ class Solution:
         result *= sign
 
         return max(INT_MIN, min(result, INT_MAX))
+
+
