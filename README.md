@@ -141,6 +141,7 @@ I'm always open to connecting with developers, learning from the community, and 
 | [0066-plus-one](https://github.com/nimish0001/Leetcode_Daily/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nimish0001/Leetcode_Daily/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/nimish0001/Leetcode_Daily/tree/master/0179-largest-number) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nimish0001/Leetcode_Daily/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## String
 |  |
 | ------- |
