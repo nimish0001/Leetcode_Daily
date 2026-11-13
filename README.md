@@ -142,6 +142,7 @@ I'm always open to connecting with developers, learning from the community, and 
 | [0066-plus-one](https://github.com/nimish0001/Leetcode_Daily/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nimish0001/Leetcode_Daily/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/nimish0001/Leetcode_Daily/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/nimish0001/Leetcode_Daily/tree/master/0217-contains-duplicate) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nimish0001/Leetcode_Daily/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## String
 |  |
@@ -177,6 +178,7 @@ I'm always open to connecting with developers, learning from the community, and 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nimish0001/Leetcode_Daily/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/nimish0001/Leetcode_Daily/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/nimish0001/Leetcode_Daily/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -187,6 +189,7 @@ I'm always open to connecting with developers, learning from the community, and 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nimish0001/Leetcode_Daily/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/nimish0001/Leetcode_Daily/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/nimish0001/Leetcode_Daily/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/nimish0001/Leetcode_Daily/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
