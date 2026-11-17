@@ -139,6 +139,7 @@ I'm always open to connecting with developers, learning from the community, and 
 | [0014-longest-common-prefix](https://github.com/nimish0001/Leetcode_Daily/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/nimish0001/Leetcode_Daily/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nimish0001/Leetcode_Daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/nimish0001/Leetcode_Daily/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/nimish0001/Leetcode_Daily/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nimish0001/Leetcode_Daily/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/nimish0001/Leetcode_Daily/tree/master/0179-largest-number) |
@@ -224,6 +225,7 @@ I'm always open to connecting with developers, learning from the community, and 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nimish0001/Leetcode_Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nimish0001/Leetcode_Daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/nimish0001/Leetcode_Daily/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
