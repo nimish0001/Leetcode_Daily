@@ -26,8 +26,6 @@ class Solution:
 
                 return (max(a, c) + min(b, d)) / 2.0
 
-            
-
             elif a > d:
                 high = i - 1
 
