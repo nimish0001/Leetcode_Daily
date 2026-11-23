@@ -144,6 +144,7 @@ I'm always open to connecting with developers, learning from the community, and 
 | [0088-merge-sorted-array](https://github.com/nimish0001/Leetcode_Daily/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/nimish0001/Leetcode_Daily/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/nimish0001/Leetcode_Daily/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/nimish0001/Leetcode_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nimish0001/Leetcode_Daily/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## String
 |  |
@@ -174,12 +175,14 @@ I'm always open to connecting with developers, learning from the community, and 
 | [0088-merge-sorted-array](https://github.com/nimish0001/Leetcode_Daily/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/nimish0001/Leetcode_Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nimish0001/Leetcode_Daily/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/nimish0001/Leetcode_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/nimish0001/Leetcode_Daily/tree/master/0541-reverse-string-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nimish0001/Leetcode_Daily/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/nimish0001/Leetcode_Daily/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/nimish0001/Leetcode_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/nimish0001/Leetcode_Daily/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -191,6 +194,7 @@ I'm always open to connecting with developers, learning from the community, and 
 | [0088-merge-sorted-array](https://github.com/nimish0001/Leetcode_Daily/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/nimish0001/Leetcode_Daily/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/nimish0001/Leetcode_Daily/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/nimish0001/Leetcode_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/nimish0001/Leetcode_Daily/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
@@ -226,6 +230,7 @@ I'm always open to connecting with developers, learning from the community, and 
 | [0004-median-of-two-sorted-arrays](https://github.com/nimish0001/Leetcode_Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nimish0001/Leetcode_Daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nimish0001/Leetcode_Daily/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/nimish0001/Leetcode_Daily/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
