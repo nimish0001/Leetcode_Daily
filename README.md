@@ -200,6 +200,7 @@ I'm always open to connecting with developers, learning from the community, and 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nimish0001/Leetcode_Daily/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/nimish0001/Leetcode_Daily/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/nimish0001/Leetcode_Daily/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/nimish0001/Leetcode_Daily/tree/master/0132-palindrome-partitioning-ii) |
 ## Backtracking
@@ -219,6 +220,7 @@ I'm always open to connecting with developers, learning from the community, and 
 | ------- |
 | [0013-roman-to-integer](https://github.com/nimish0001/Leetcode_Daily/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/nimish0001/Leetcode_Daily/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/nimish0001/Leetcode_Daily/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/nimish0001/Leetcode_Daily/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -235,4 +237,8 @@ I'm always open to connecting with developers, learning from the community, and 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nimish0001/Leetcode_Daily/tree/master/0004-median-of-two-sorted-arrays) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nimish0001/Leetcode_Daily/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
